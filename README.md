@@ -4,3 +4,5 @@ Project Overview:The Netflix streaming service has amassed a vast trove of data 
 
 objectives: 1. To provide a comprehensive overview of Netflix data using Pandas.
 2. To demonstrate how to use Pandas to perform data cleaning, exploration, and visualization.
+link to dataset: https://www.kaggle.com/datasets/muhammadanasmahmood/netflix-movies-dataset
+
