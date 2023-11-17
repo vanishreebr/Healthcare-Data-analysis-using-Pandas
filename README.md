@@ -1,8 +1,9 @@
-Project Title: Netflix Insights Unfolded: A Comprehensive Data Analysis Using Pandas
+Project Title: Healthcare Data Deep Dive with Pandas: A Data-Driven Approach to Healthcare Improvement
 
-Project Overview:The Netflix streaming service has amassed a vast trove of data on duration, titles, casts, ratings, and genre preferences. This project aims to delve into this rich dataset using Pandas, a powerful Python library for data analysis, to uncover hidden patterns and insights.
+Project Overview:This project aims to utilize the power of Pandas, a Python library for data analysis, to explore and analyze real-world health care data. By focusing on a specific dataset related to health outcomes, disease patterns, or hospital admissions, we will gain valuable insights into health care trends and patterns.
 
-objectives: 1. To provide a comprehensive overview of Netflix data using Pandas.
-2. To demonstrate how to use Pandas to perform data cleaning, exploration, and visualization.
-link to dataset: https://www.kaggle.com/datasets/muhammadanasmahmood/netflix-movies-dataset
+objectives: 1. To harness the power of Pandas, a popular data analysis library in Python, to delve into healthcare data and uncover meaningful insights that can contribute to improved patient care and healthcare decision-making.
+
+link to dataset: https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
 
